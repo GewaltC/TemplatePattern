@@ -1,0 +1,16 @@
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.csprojAssemblyReference.cache
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.exe
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.deps.json
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.runtimeconfig.json
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.runtimeconfig.dev.json
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.dll
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\ref\TemplatePattern.dll
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\bin\Debug\net5.0\TemplatePattern.pdb
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.dll
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\ref\TemplatePattern.dll
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.pdb
+C:\Users\dpc521\RiderProjects\TemplatePattern\TemplatePattern\obj\Debug\net5.0\TemplatePattern.genruntimeconfig.cache
